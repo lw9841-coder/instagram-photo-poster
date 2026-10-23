@@ -1,0 +1,19 @@
+# credentials
+.env
+.env.bak
+
+# run state and output (your photos and account data)
+candidates/
+candidates.json
+originals/
+story-previews/
+posted.log
+posted_hashes.json
+queue.json
+comments_seen.json
+
+# environments
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

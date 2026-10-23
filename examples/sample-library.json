@@ -1,0 +1,651 @@
+[
+  {
+    "uuid": "0000-sunset-0001",
+    "date": "2026-09-05T19:42:10-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0001.HEIC",
+    "labels": [
+      "sky",
+      "sunset",
+      "water"
+    ],
+    "score": {
+      "overall": 0.85,
+      "curation": 0.8,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.9,
+      "harmonious_color": 0.8,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": true,
+    "place": {
+      "name": "Lakeside Park"
+    },
+    "path_derivatives": [
+      "photos/sample-a.jpg"
+    ],
+    "ai_caption": "A sunset over a lake",
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-group-0002",
+    "date": "2026-09-12T10:15:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0002.HEIC",
+    "labels": [
+      "people",
+      "crowd"
+    ],
+    "score": {
+      "overall": 0.7,
+      "curation": 0.65,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.7,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_"
+    ],
+    "face_info": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "favorite": false,
+    "place": {
+      "name": "Community Center"
+    },
+    "path_derivatives": [
+      "photos/sample-b.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-group-0003",
+    "date": "2026-09-12T10:15:40-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0003.HEIC",
+    "labels": [
+      "people",
+      "crowd"
+    ],
+    "score": {
+      "overall": 0.6,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_"
+    ],
+    "face_info": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "favorite": false,
+    "place": {
+      "name": "Community Center"
+    },
+    "path_derivatives": [
+      "photos/sample-b.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-group-0004",
+    "date": "2026-09-12T10:16:30-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0004.HEIC",
+    "labels": [
+      "people"
+    ],
+    "score": {
+      "overall": 0.55,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_",
+      "_UNKNOWN_"
+    ],
+    "face_info": [
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "favorite": false,
+    "place": {
+      "name": "Community Center"
+    },
+    "path_derivatives": [
+      "photos/sample-b.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-trail-0005",
+    "date": "2026-09-19T08:30:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0005.HEIC",
+    "labels": [
+      "tree",
+      "path"
+    ],
+    "score": {
+      "overall": 0.75,
+      "curation": 0.7,
+      "interesting_subject": 0.6,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": {
+      "name": "River Trail"
+    },
+    "path_derivatives": [
+      "photos/sample-c.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-market-0006",
+    "date": "2026-09-26T11:05:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0006.HEIC",
+    "labels": [
+      "food",
+      "people"
+    ],
+    "score": {
+      "overall": 0.6,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [
+      "_UNKNOWN_",
+      "_UNKNOWN_"
+    ],
+    "face_info": [
+      {},
+      {}
+    ],
+    "favorite": false,
+    "place": {
+      "name": "Downtown Market"
+    },
+    "path_derivatives": [
+      "photos/sample-d.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-receipt-0007",
+    "date": "2026-09-06T13:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0007.HEIC",
+    "labels": [
+      "receipt",
+      "paper"
+    ],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-d.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-shot-0008",
+    "date": "2026-09-07T09:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [],
+    "exif_info": {},
+    "original_filename": "Screenshot 2026-09-07 at 9.00.00 AM.png",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-d.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-aiimg-0009",
+    "date": "2026-09-08T21:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.openai.chat"
+    ],
+    "exif_info": {},
+    "original_filename": "IMG_0009.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.99,
+      "curation": 0.99,
+      "interesting_subject": 0.99,
+      "well_framed_subject": 0.99,
+      "sharply_focused_subject": 0.99,
+      "pleasant_composition": 0.99,
+      "well_timed_shot": 0.99,
+      "well_chosen_subject": 0.99,
+      "pleasant_lighting": 0.99,
+      "harmonious_color": 0.99,
+      "lively_color": 0.99,
+      "immersiveness": 0.99,
+      "intrusive_object_presence": 0.01,
+      "failure": 0.01,
+      "noise": 0.01,
+      "low_light": 0.01
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-a.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-texted-0010",
+    "date": "2026-09-09T18:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.MobileSMS.compose"
+    ],
+    "exif_info": {},
+    "original_filename": "IMG_0010.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-c.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-video-0011",
+    "date": "2026-09-10T12:00:00-05:00",
+    "isphoto": false,
+    "ismovie": true,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0011.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-c.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-blurry-0012",
+    "date": "2026-09-11T16:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0012.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.8,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-c.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true
+  },
+  {
+    "uuid": "0000-hidden-0013",
+    "date": "2026-09-13T16:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0013.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-a.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true,
+    "hidden": true
+  },
+  {
+    "uuid": "0000-burst-0014",
+    "date": "2026-09-14T15:00:00-05:00",
+    "isphoto": true,
+    "ismovie": false,
+    "imported_by": [
+      "com.apple.camera"
+    ],
+    "exif_info": {
+      "camera_make": "Apple"
+    },
+    "original_filename": "IMG_0014.HEIC",
+    "labels": [],
+    "score": {
+      "overall": 0.5,
+      "curation": 0.5,
+      "interesting_subject": 0.4,
+      "well_framed_subject": 0.4,
+      "sharply_focused_subject": 0.5,
+      "pleasant_composition": 0.4,
+      "well_timed_shot": 0.4,
+      "well_chosen_subject": 0.4,
+      "pleasant_lighting": 0.4,
+      "harmonious_color": 0.4,
+      "lively_color": 0.3,
+      "immersiveness": 0.2,
+      "intrusive_object_presence": 0.1,
+      "failure": 0.05,
+      "noise": 0.1,
+      "low_light": 0.1
+    },
+    "persons": [],
+    "face_info": [],
+    "favorite": false,
+    "place": null,
+    "path_derivatives": [
+      "photos/sample-b.jpg"
+    ],
+    "ai_caption": null,
+    "ismissing": true,
+    "burst": true,
+    "burst_selected": false,
+    "burst_default_pick": false
+  }
+]
